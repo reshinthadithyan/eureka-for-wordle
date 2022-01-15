@@ -1,5 +1,5 @@
 from itertools import count
-from metrics import get_word_list,Metrics
+from src.metrics import get_word_list,Metrics
 
 import logging
 import random

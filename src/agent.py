@@ -1,5 +1,5 @@
 import random
-from metrics import get_word_list
+from src.metrics import get_word_list
 
 
 class Cerebrum:
