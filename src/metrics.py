@@ -1,5 +1,5 @@
-from nltk import corpus
-
+from nltk import corpus,download
+download('words')
 
 def get_word_list()->list:
 
