@@ -1,0 +1,9 @@
+
+
+
+1. We'll have to do it with letters.
+2. We'll also need it to be valid words.
+
+
+Ethical Questions:
+    1) It is based on vocabulary
